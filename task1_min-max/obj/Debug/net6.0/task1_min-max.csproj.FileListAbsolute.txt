@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Phyton_work\GeekBrains обучение\3 Блок. Знакомство с языком программирования C#\Seminar_1_DZ\task1_min-max\bin\Debug\net6.0\task1_min-max.exe
+C:\Users\User\Desktop\Phyton_work\GeekBrains обучение\3 Блок. Знакомство с языком программирования C#\Seminar_1_DZ\task1_min-max\bin\Debug\net6.0\task1_min-max.deps.json
+C:\Users\User\Desktop\Phyton_work\GeekBrains обучение\3 Блок. Знакомство с языком программирования C#\Seminar_1_DZ\task1_min-max\bin\Debug\net6.0\task1_min-max.runtimeconfig.json
+C:\Users\User\Desktop\Phyton_work\GeekBrains обучение\3 Блок. Знакомство с языком программирования C#\Seminar_1_DZ\task1_min-max\bin\Debug\net6.0\task1_min-max.dll
+C:\Users\User\Desktop\Phyton_work\GeekBrains обучение\3 Блок. Знакомство с языком программирования C#\Seminar_1_DZ\task1_min-max\bin\Debug\net6.0\task1_min-max.pdb
+C:\Users\User\Desktop\Phyton_work\GeekBrains обучение\3 Блок. Знакомство с языком программирования C#\Seminar_1_DZ\task1_min-max\obj\Debug\net6.0\task1_min-max.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Phyton_work\GeekBrains обучение\3 Блок. Знакомство с языком программирования C#\Seminar_1_DZ\task1_min-max\obj\Debug\net6.0\task1_min-max.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Phyton_work\GeekBrains обучение\3 Блок. Знакомство с языком программирования C#\Seminar_1_DZ\task1_min-max\obj\Debug\net6.0\task1_min-max.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Phyton_work\GeekBrains обучение\3 Блок. Знакомство с языком программирования C#\Seminar_1_DZ\task1_min-max\obj\Debug\net6.0\task1_min-max.AssemblyInfo.cs
+C:\Users\User\Desktop\Phyton_work\GeekBrains обучение\3 Блок. Знакомство с языком программирования C#\Seminar_1_DZ\task1_min-max\obj\Debug\net6.0\task1_min-max.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Phyton_work\GeekBrains обучение\3 Блок. Знакомство с языком программирования C#\Seminar_1_DZ\task1_min-max\obj\Debug\net6.0\task1_min-max.dll
+C:\Users\User\Desktop\Phyton_work\GeekBrains обучение\3 Блок. Знакомство с языком программирования C#\Seminar_1_DZ\task1_min-max\obj\Debug\net6.0\refint\task1_min-max.dll
+C:\Users\User\Desktop\Phyton_work\GeekBrains обучение\3 Блок. Знакомство с языком программирования C#\Seminar_1_DZ\task1_min-max\obj\Debug\net6.0\task1_min-max.pdb
+C:\Users\User\Desktop\Phyton_work\GeekBrains обучение\3 Блок. Знакомство с языком программирования C#\Seminar_1_DZ\task1_min-max\obj\Debug\net6.0\task1_min-max.genruntimeconfig.cache
+C:\Users\User\Desktop\Phyton_work\GeekBrains обучение\3 Блок. Знакомство с языком программирования C#\Seminar_1_DZ\task1_min-max\obj\Debug\net6.0\ref\task1_min-max.dll
